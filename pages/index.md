@@ -6,7 +6,7 @@ The United States is in the midst of an opioid epidemic: <Value data={deaths_mos
 
 
 
-The CDC tracks the number of drug overdose deaths in the United States, and breaks down the data by type of drug.
+The CDC tracks the number of drug overdose deaths in the United States, and [breaks down the data by type of drug](https://data.cdc.gov/NCHS/VSRR-Provisional-Drug-Overdose-Death-Counts/xkb8-kh2a).
 
 
 ```indicators
